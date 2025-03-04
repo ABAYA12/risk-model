@@ -1,0 +1,6064 @@
+[
+    {
+        "id": 1,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726437014591,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 2,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: App Administation",
+        "createdAt": 1726437096135,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 3,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726437099698,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 4,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726437103574,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 5,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438215653,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 6,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Audit",
+        "createdAt": 1726438243124,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 7,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438247186,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 8,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438250515,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 9,
+        "action": "Gabriel Darko Opoku ( ADMIN ) deleted department with id 2",
+        "createdAt": 1726438296604,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 10,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Training School",
+        "createdAt": 1726438402470,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 11,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438406327,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 12,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438410760,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 13,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Audit",
+        "createdAt": 1726438430536,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 14,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438433993,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 15,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438437860,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 16,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Finance",
+        "createdAt": 1726438484428,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 17,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438488461,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 18,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438492015,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 19,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Procurement Premises and Estate",
+        "createdAt": 1726438528050,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 20,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438532026,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 21,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438535421,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 22,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: New Projects",
+        "createdAt": 1726438557475,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 23,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438561306,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 24,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438564848,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 25,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Legal",
+        "createdAt": 1726438586347,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 26,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438594959,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 27,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438598454,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 28,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Communication",
+        "createdAt": 1726438630123,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 29,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438633585,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 30,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438637575,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 31,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: CSD",
+        "createdAt": 1726438681904,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 32,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438685427,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 33,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438693147,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 34,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Human Resource",
+        "createdAt": 1726438714204,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 35,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438717672,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 36,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438729334,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 37,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Operations",
+        "createdAt": 1726438745296,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 38,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438748809,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 39,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438758793,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 40,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: ICT",
+        "createdAt": 1726438768544,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 41,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438772034,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 42,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438775896,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 43,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Material and Transport",
+        "createdAt": 1726438805665,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 44,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438809176,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 45,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438813014,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 46,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Eastern Region",
+        "createdAt": 1726438898427,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 47,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438901945,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 48,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726438905825,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 49,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439616360,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 50,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-RISK-ADMIN",
+        "createdAt": 1726439622016,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 51,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439625829,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 52,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-TS",
+        "createdAt": 1726439634942,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 53,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439637507,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 54,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-AUD",
+        "createdAt": 1726439641906,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 55,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439643472,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 56,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-FIN",
+        "createdAt": 1726439648986,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 57,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439650921,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 58,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-P&E",
+        "createdAt": 1726439655880,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 59,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439658060,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 60,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-NP",
+        "createdAt": 1726439685848,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 61,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439688631,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 62,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-LEG",
+        "createdAt": 1726439692640,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 63,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439694445,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 64,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-COM",
+        "createdAt": 1726439700018,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 65,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439701822,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 66,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-CSD",
+        "createdAt": 1726439708180,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 67,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439710225,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 68,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-HR",
+        "createdAt": 1726439716565,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 69,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439718387,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 70,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-OPS",
+        "createdAt": 1726439724216,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 71,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439726744,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 72,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-ICT",
+        "createdAt": 1726439734268,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 73,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439736031,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 74,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-M&T",
+        "createdAt": 1726439743549,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 75,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439745505,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 76,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-ER",
+        "createdAt": 1726439752881,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 77,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726439754644,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 78,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1726439759630,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 79,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726439777660,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 80,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:test",
+        "createdAt": 1726439810873,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 81,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726439819502,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 82,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726439820163,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 83,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726439823354,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 84,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk mitigation for the risk with riskCode:test",
+        "createdAt": 1726439847533,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 85,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726439855759,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 86,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726439856528,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 87,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726439859069,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 88,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk review for the risk with riskCode:test",
+        "createdAt": 1726439871705,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 89,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726442700628,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 90,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726442808733,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 91,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726445613592,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 92,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726445961698,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 96,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726477039624,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 97,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726477058403,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 98,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726477660787,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 99,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726477663837,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 100,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1726477668566,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 101,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1726477671678,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 102,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726477689057,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 103,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726477702080,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 104,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726477705182,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 106,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726478394547,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 107,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726478720418,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 108,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726478958757,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 109,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726479458434,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 110,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726479513781,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 111,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726479875473,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 112,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726480289137,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 113,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726481017196,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 114,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726481573200,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 115,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726482603970,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 116,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726483967853,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 117,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726495420498,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 118,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726495423878,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 119,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726495426737,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 120,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1726495431306,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 121,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1726495435210,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 122,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726495438008,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 123,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726589214912,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 124,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726589221329,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 125,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726589226943,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 126,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1726589233487,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 127,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1726589235319,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 129,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726622420879,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 207,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624571471,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 208,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-TR-001",
+        "createdAt": 1726624652296,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 209,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624656401,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 210,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624659871,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 211,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624660634,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 212,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-TR-002",
+        "createdAt": 1726624730858,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 213,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624734963,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 214,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624735800,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 215,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624746382,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 216,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624747025,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 217,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-TR-003",
+        "createdAt": 1726624809961,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 218,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624814041,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 219,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624814694,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 220,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624815909,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 221,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624817476,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 222,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624818116,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 223,
+        "action": "Gabriel Darko Opoku ( ADMIN ) deleted the risk with id 1 and all its associations",
+        "createdAt": 1726624824181,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 224,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726624836735,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 225,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726624839582,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 226,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624842734,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 227,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-TR",
+        "createdAt": 1726624960408,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 228,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624964483,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 229,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624965160,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 230,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624966169,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 231,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624967875,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 232,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624968548,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 233,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated the risk With riskID:ECG-TR-004",
+        "createdAt": 1726624977435,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 234,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624978145,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 235,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated the risk With riskID:ECG-TR-004",
+        "createdAt": 1726624994297,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 236,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726624995434,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 237,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated the risk With riskID:ECG-TR-001",
+        "createdAt": 1726625012928,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 238,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625014063,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 239,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-TR-005",
+        "createdAt": 1726625125937,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 240,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625129963,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 241,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625130831,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 242,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625131877,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 243,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625132536,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 244,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625133446,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 245,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726625134137,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 246,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1726652465658,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 247,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726652477639,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 248,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726652481505,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 249,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726656754485,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 308,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1726660663818,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 316,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851358117,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 317,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: New business and Risk management ",
+        "createdAt": 1726851637662,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 318,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851641130,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 319,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851645619,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 320,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Project Planning, Monitoring and Evaluation ",
+        "createdAt": 1726851677577,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 321,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851681496,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 322,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851685043,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 323,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Premises, Procurement and Estate",
+        "createdAt": 1726851721434,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 324,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851725471,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 325,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851728884,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 326,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Renewable Energy and Energy Consulting",
+        "createdAt": 1726851754976,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 327,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851759617,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 328,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851766851,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 329,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Network Project",
+        "createdAt": 1726851794968,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 330,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851798985,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 331,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851803668,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 332,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Accra East",
+        "createdAt": 1726851831992,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 333,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851836390,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 334,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851839764,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 335,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Accra West",
+        "createdAt": 1726851875094,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 336,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851879449,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 337,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851882994,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 338,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Tema",
+        "createdAt": 1726851898291,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 339,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851902339,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 340,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851905682,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 341,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Central",
+        "createdAt": 1726851924581,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 342,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851929292,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 343,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851932642,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 344,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Head Office",
+        "createdAt": 1726851949407,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 345,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851953481,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 346,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726851982760,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 347,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Western",
+        "createdAt": 1726852003254,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 348,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852006869,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 349,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852010744,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 350,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Volta",
+        "createdAt": 1726852036946,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 351,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852040571,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 352,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852044446,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 353,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Sub-Transmission",
+        "createdAt": 1726852083565,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 354,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852087186,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 355,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852091096,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 356,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Project Office",
+        "createdAt": 1726852127589,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 357,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852131233,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 358,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852135100,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 359,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG_ASH-SubT",
+        "createdAt": 1726852176919,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 360,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852179758,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 361,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Ashanti East",
+        "createdAt": 1726852213168,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 362,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852217328,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 363,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852225513,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 364,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Ashanti West",
+        "createdAt": 1726852251534,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 365,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852255388,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 366,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852258941,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 367,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Ashanti South",
+        "createdAt": 1726852283699,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 368,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852287958,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 369,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726852291214,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 370,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726852825099,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 371,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726853453330,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 372,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-001",
+        "createdAt": 1726853810284,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 373,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-002",
+        "createdAt": 1726853810857,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 374,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-003",
+        "createdAt": 1726853811413,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 375,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-004",
+        "createdAt": 1726853811971,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 376,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-005",
+        "createdAt": 1726853812524,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 377,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-006",
+        "createdAt": 1726853813082,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 911,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132244717,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 378,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-007",
+        "createdAt": 1726853813642,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 379,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-008",
+        "createdAt": 1726853814204,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 380,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-009",
+        "createdAt": 1726853814780,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 381,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-010",
+        "createdAt": 1726853815354,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 382,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-011",
+        "createdAt": 1726853815910,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 383,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-012",
+        "createdAt": 1726853816484,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 384,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-013",
+        "createdAt": 1726853817082,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 385,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-014",
+        "createdAt": 1726853817658,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 386,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-015",
+        "createdAt": 1726853818224,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 387,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-016",
+        "createdAt": 1726853818788,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 388,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-017",
+        "createdAt": 1726853819351,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 389,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-018",
+        "createdAt": 1726853819930,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 390,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-019",
+        "createdAt": 1726853820489,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 391,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-020",
+        "createdAt": 1726853821048,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 392,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-021",
+        "createdAt": 1726853821605,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 393,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-022",
+        "createdAt": 1726853822166,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 394,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-023",
+        "createdAt": 1726853822722,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 395,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-024",
+        "createdAt": 1726853823277,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 396,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-025",
+        "createdAt": 1726853823829,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 397,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-026",
+        "createdAt": 1726853824389,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 398,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-027",
+        "createdAt": 1726853824967,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 399,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-SubT-028",
+        "createdAt": 1726853825541,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 400,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726854097829,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 401,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726854107959,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 402,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG_ASH-East",
+        "createdAt": 1726854139998,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 403,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726854143663,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 404,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-001",
+        "createdAt": 1726855505856,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 405,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-002",
+        "createdAt": 1726855506410,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 406,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-003",
+        "createdAt": 1726855506978,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 407,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-004",
+        "createdAt": 1726855507517,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 408,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-005",
+        "createdAt": 1726855508059,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 409,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-006",
+        "createdAt": 1726855508625,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 410,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-007",
+        "createdAt": 1726855509163,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 411,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-008",
+        "createdAt": 1726855509712,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 412,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-009",
+        "createdAt": 1726855510254,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 413,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-010",
+        "createdAt": 1726855510794,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 414,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-011",
+        "createdAt": 1726855511334,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 415,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-012",
+        "createdAt": 1726855511883,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 416,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-013",
+        "createdAt": 1726855512446,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 417,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-014",
+        "createdAt": 1726855513018,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 418,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-015",
+        "createdAt": 1726855513568,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 419,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-016",
+        "createdAt": 1726855514162,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 420,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-017",
+        "createdAt": 1726855514702,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 421,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-018",
+        "createdAt": 1726855515270,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 422,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-019",
+        "createdAt": 1726855515838,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 423,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-020",
+        "createdAt": 1726855516417,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 424,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-021",
+        "createdAt": 1726855516996,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 425,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East22",
+        "createdAt": 1726855517563,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 426,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-023",
+        "createdAt": 1726855518126,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 427,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-024",
+        "createdAt": 1726855518792,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 428,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-025",
+        "createdAt": 1726855519403,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 429,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-026",
+        "createdAt": 1726855519963,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 430,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-027",
+        "createdAt": 1726855520556,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 431,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-028",
+        "createdAt": 1726855521114,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 432,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-029",
+        "createdAt": 1726855521657,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 433,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-030",
+        "createdAt": 1726855522282,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 434,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-031",
+        "createdAt": 1726855522845,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 435,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-032",
+        "createdAt": 1726855523406,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 436,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-033",
+        "createdAt": 1726855523972,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 437,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-034",
+        "createdAt": 1726855524599,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 438,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-035",
+        "createdAt": 1726855525147,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 439,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-036",
+        "createdAt": 1726855525729,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 440,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-037",
+        "createdAt": 1726855526282,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 441,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-038",
+        "createdAt": 1726855526857,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 442,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-039",
+        "createdAt": 1726855527404,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 443,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-040",
+        "createdAt": 1726855527976,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 444,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-East-041",
+        "createdAt": 1726855528546,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 445,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726856147174,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 446,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-CENT",
+        "createdAt": 1726856170183,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 447,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726856173412,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 448,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-001",
+        "createdAt": 1726856569831,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 449,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-002",
+        "createdAt": 1726856570462,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 450,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-003",
+        "createdAt": 1726856571074,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 451,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-004",
+        "createdAt": 1726856571739,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 452,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-005",
+        "createdAt": 1726856572366,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 453,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-006",
+        "createdAt": 1726856572969,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 454,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-007",
+        "createdAt": 1726856573545,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 455,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-008",
+        "createdAt": 1726856574148,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 456,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-009",
+        "createdAt": 1726856574719,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 457,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-010",
+        "createdAt": 1726856575284,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 458,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-011",
+        "createdAt": 1726856575851,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 459,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-012",
+        "createdAt": 1726856576416,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 460,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-013",
+        "createdAt": 1726856576984,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 461,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-014",
+        "createdAt": 1726856577550,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 462,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-015",
+        "createdAt": 1726856578121,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 463,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-016",
+        "createdAt": 1726856578707,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 464,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-017",
+        "createdAt": 1726856579279,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 465,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-018",
+        "createdAt": 1726856579859,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 466,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-019",
+        "createdAt": 1726856580436,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 467,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-020",
+        "createdAt": 1726856581006,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 468,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-021",
+        "createdAt": 1726856581577,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 469,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-022",
+        "createdAt": 1726856582165,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 470,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-023",
+        "createdAt": 1726856582731,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 471,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-024",
+        "createdAt": 1726856583327,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 472,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-025",
+        "createdAt": 1726856583923,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 473,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-026",
+        "createdAt": 1726856584521,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 474,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-027",
+        "createdAt": 1726856585131,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 475,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-028",
+        "createdAt": 1726856585715,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 476,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-029",
+        "createdAt": 1726856586284,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 477,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-030",
+        "createdAt": 1726856586932,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 478,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-031",
+        "createdAt": 1726856587528,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 479,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-032",
+        "createdAt": 1726856588228,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 480,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-033",
+        "createdAt": 1726856588799,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 481,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CENT-034",
+        "createdAt": 1726856589370,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 482,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726871686116,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 483,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-001",
+        "createdAt": 1726871979401,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 484,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-002",
+        "createdAt": 1726871979978,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 485,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-003",
+        "createdAt": 1726871980568,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 486,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-004",
+        "createdAt": 1726871981136,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 487,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-005",
+        "createdAt": 1726871981711,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 488,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-006",
+        "createdAt": 1726871982286,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 489,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-007",
+        "createdAt": 1726871983013,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 490,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-008",
+        "createdAt": 1726871983594,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 491,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-009",
+        "createdAt": 1726871984178,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 492,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-010",
+        "createdAt": 1726871984788,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 493,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-011",
+        "createdAt": 1726871985356,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 494,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-012",
+        "createdAt": 1726871985921,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 495,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-013",
+        "createdAt": 1726871986522,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 496,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-014",
+        "createdAt": 1726871987105,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 497,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-015",
+        "createdAt": 1726871987679,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 498,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-016",
+        "createdAt": 1726871988247,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 499,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-017",
+        "createdAt": 1726871988814,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 500,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-018",
+        "createdAt": 1726871989390,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 501,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-019",
+        "createdAt": 1726871989974,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 502,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-020",
+        "createdAt": 1726871990593,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 503,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-021",
+        "createdAt": 1726871991162,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 504,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-022",
+        "createdAt": 1726871991731,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 505,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-023",
+        "createdAt": 1726871992328,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 506,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-024",
+        "createdAt": 1726871992899,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 507,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-025",
+        "createdAt": 1726871993468,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 508,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-026",
+        "createdAt": 1726871994066,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 509,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-027",
+        "createdAt": 1726871994656,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 510,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-028",
+        "createdAt": 1726871995230,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 511,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-029",
+        "createdAt": 1726871995798,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 512,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-030",
+        "createdAt": 1726871996389,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 513,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-031",
+        "createdAt": 1726871996971,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 514,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-032",
+        "createdAt": 1726871997546,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 515,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-033",
+        "createdAt": 1726871998123,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 516,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-034",
+        "createdAt": 1726871998705,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 517,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG_ASH-South-035",
+        "createdAt": 1726871999278,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 518,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726874413816,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 519,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG_ASH-South",
+        "createdAt": 1726874448924,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 520,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726874452246,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 521,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG_ASH-West",
+        "createdAt": 1726874461630,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 522,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726874466648,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 523,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-Volta",
+        "createdAt": 1726874480421,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 524,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726874702734,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 525,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-001",
+        "createdAt": 1726875383527,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 526,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-002",
+        "createdAt": 1726875384107,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 527,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-003",
+        "createdAt": 1726875384701,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 528,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-004",
+        "createdAt": 1726875385281,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 529,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-005",
+        "createdAt": 1726875385869,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 530,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-006",
+        "createdAt": 1726875386446,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 531,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-007",
+        "createdAt": 1726875387027,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 532,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-008",
+        "createdAt": 1726875387601,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 533,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-09",
+        "createdAt": 1726875388180,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 534,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-010",
+        "createdAt": 1726875388761,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 535,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-011",
+        "createdAt": 1726875389342,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 536,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-012",
+        "createdAt": 1726875389931,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 537,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-013",
+        "createdAt": 1726875390521,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 538,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-014",
+        "createdAt": 1726875391127,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 539,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-015",
+        "createdAt": 1726875391718,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 540,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-016",
+        "createdAt": 1726875392291,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 541,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-017",
+        "createdAt": 1726875392886,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 542,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-018",
+        "createdAt": 1726875393511,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 543,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-019",
+        "createdAt": 1726875394086,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 544,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-020",
+        "createdAt": 1726875394764,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 545,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-021",
+        "createdAt": 1726875395375,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 546,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-022",
+        "createdAt": 1726875395969,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 547,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-023",
+        "createdAt": 1726875396568,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 548,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-024",
+        "createdAt": 1726875397152,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 549,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-025",
+        "createdAt": 1726875397727,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 550,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-026",
+        "createdAt": 1726875398332,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 551,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-027",
+        "createdAt": 1726875398925,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 552,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-028",
+        "createdAt": 1726875399516,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 553,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-029",
+        "createdAt": 1726875400091,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 554,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-030",
+        "createdAt": 1726875400694,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 555,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-031",
+        "createdAt": 1726875401279,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 556,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-033",
+        "createdAt": 1726875401872,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 557,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-034",
+        "createdAt": 1726875402445,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 558,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-035",
+        "createdAt": 1726875403024,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 559,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-036",
+        "createdAt": 1726875403616,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 560,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-037",
+        "createdAt": 1726875404197,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 561,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-038",
+        "createdAt": 1726875404775,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 562,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-039",
+        "createdAt": 1726875405371,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 563,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-040",
+        "createdAt": 1726875405948,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 564,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-041",
+        "createdAt": 1726875406541,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 565,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-042",
+        "createdAt": 1726875407117,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 566,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-043",
+        "createdAt": 1726875407697,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 567,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-044",
+        "createdAt": 1726875408287,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 568,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-045",
+        "createdAt": 1726875408857,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 569,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-Volta-046",
+        "createdAt": 1726875409442,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 570,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726923350800,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 572,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726987423698,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 573,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726987437619,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 574,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726987524733,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 575,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1726987529709,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 576,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726987531505,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 577,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726987556632,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 578,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726987569674,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 579,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726987585542,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 580,
+        "action": "Gabriel Darko Opoku ( ADMIN ) deleted department with id 1",
+        "createdAt": 1726987590899,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 581,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1726987600217,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 582,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1726987610161,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 583,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-001",
+        "createdAt": 1726990010467,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 584,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-002",
+        "createdAt": 1726990011019,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 585,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-003",
+        "createdAt": 1726990011609,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 586,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-004",
+        "createdAt": 1726990012167,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 587,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-005",
+        "createdAt": 1726990012741,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 588,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-006",
+        "createdAt": 1726990013294,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 589,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-007",
+        "createdAt": 1726990013846,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 590,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-008",
+        "createdAt": 1726990014411,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 591,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-009",
+        "createdAt": 1726990014964,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 592,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-010",
+        "createdAt": 1726990015528,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 593,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-011",
+        "createdAt": 1726990016111,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 594,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-012",
+        "createdAt": 1726990016658,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 595,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-013",
+        "createdAt": 1726990017227,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 596,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-014",
+        "createdAt": 1726990017791,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 597,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-015",
+        "createdAt": 1726990018355,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 598,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-016",
+        "createdAt": 1726990018918,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 599,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-017",
+        "createdAt": 1726990019486,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 600,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-018",
+        "createdAt": 1726990020053,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 601,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-019",
+        "createdAt": 1726990020605,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 602,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-020",
+        "createdAt": 1726990021166,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 603,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-021",
+        "createdAt": 1726990021729,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 604,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-022",
+        "createdAt": 1726990022300,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 605,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-023",
+        "createdAt": 1726990022864,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 606,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-024",
+        "createdAt": 1726990023440,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 607,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-025",
+        "createdAt": 1726990023992,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 608,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ER-026",
+        "createdAt": 1726990024549,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 609,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727007455785,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 610,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-001",
+        "createdAt": 1727007795397,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 611,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-002",
+        "createdAt": 1727007795939,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 612,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-003",
+        "createdAt": 1727007796508,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 613,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-004",
+        "createdAt": 1727007797054,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 614,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-005",
+        "createdAt": 1727007797593,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 615,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-006",
+        "createdAt": 1727007798137,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 616,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-007",
+        "createdAt": 1727007798727,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 617,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR-008",
+        "createdAt": 1727007799280,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 618,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-HR",
+        "createdAt": 1727007799822,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 619,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-001",
+        "createdAt": 1727008441381,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 620,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-002",
+        "createdAt": 1727008441962,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 621,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-003",
+        "createdAt": 1727008442518,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 622,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-004",
+        "createdAt": 1727008443076,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 623,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-005",
+        "createdAt": 1727008443628,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 624,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-006",
+        "createdAt": 1727008444180,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 625,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-007",
+        "createdAt": 1727008444732,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 626,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-008",
+        "createdAt": 1727008445292,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 627,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-009",
+        "createdAt": 1727008445846,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 628,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-010",
+        "createdAt": 1727008446404,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 629,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-011",
+        "createdAt": 1727008446964,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 630,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-012",
+        "createdAt": 1727008447535,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 631,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-013",
+        "createdAt": 1727008448092,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 632,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-014",
+        "createdAt": 1727008448693,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 633,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-015",
+        "createdAt": 1727008449257,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 634,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-016",
+        "createdAt": 1727008449838,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 635,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-017",
+        "createdAt": 1727008450387,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 636,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-018",
+        "createdAt": 1727008450951,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 637,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-019",
+        "createdAt": 1727008451500,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 638,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-020",
+        "createdAt": 1727008452073,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 639,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-021",
+        "createdAt": 1727008452635,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 640,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-022",
+        "createdAt": 1727008453208,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 641,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-CSD-023",
+        "createdAt": 1727008453777,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 642,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-001",
+        "createdAt": 1727008870391,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 643,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-002",
+        "createdAt": 1727008870935,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 644,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-003",
+        "createdAt": 1727008871486,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 645,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-004",
+        "createdAt": 1727008872026,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 646,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-005",
+        "createdAt": 1727008872572,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 647,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-006",
+        "createdAt": 1727008873124,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 648,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-TS-007",
+        "createdAt": 1727008873666,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 649,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-001",
+        "createdAt": 1727009673085,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 650,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-002",
+        "createdAt": 1727009673635,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 651,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-003",
+        "createdAt": 1727009674181,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 652,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-004",
+        "createdAt": 1727009674725,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 653,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-005",
+        "createdAt": 1727009675283,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 654,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-006",
+        "createdAt": 1727009675835,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 655,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-007",
+        "createdAt": 1727009676375,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 656,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-008",
+        "createdAt": 1727009676935,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 657,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-009",
+        "createdAt": 1727009677501,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 658,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-010",
+        "createdAt": 1727009678057,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 659,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-011",
+        "createdAt": 1727009678633,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 660,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-012",
+        "createdAt": 1727009679178,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 661,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-013",
+        "createdAt": 1727009679745,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 662,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-014",
+        "createdAt": 1727009680287,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 663,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-015",
+        "createdAt": 1727009680836,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 664,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-016",
+        "createdAt": 1727009681436,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 665,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-017",
+        "createdAt": 1727009681978,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 666,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-018",
+        "createdAt": 1727009682538,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 667,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-019",
+        "createdAt": 1727009683099,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 668,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-020",
+        "createdAt": 1727009683642,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 669,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-021",
+        "createdAt": 1727009684218,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 670,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-FIN-022",
+        "createdAt": 1727009684785,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 671,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-001",
+        "createdAt": 1727011557863,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 672,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-002",
+        "createdAt": 1727011558471,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 673,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-003",
+        "createdAt": 1727011559081,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 674,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-004",
+        "createdAt": 1727011559689,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 675,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-005",
+        "createdAt": 1727011560270,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 676,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-006",
+        "createdAt": 1727011560869,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 677,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-007",
+        "createdAt": 1727011561456,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 678,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-008",
+        "createdAt": 1727011562050,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 679,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-009",
+        "createdAt": 1727011562653,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 680,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-010",
+        "createdAt": 1727011563253,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 681,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-011",
+        "createdAt": 1727011563838,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 682,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-012",
+        "createdAt": 1727011564444,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 683,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-013",
+        "createdAt": 1727011565039,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 684,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-014",
+        "createdAt": 1727011565672,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 685,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-015",
+        "createdAt": 1727011566266,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 686,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-016",
+        "createdAt": 1727011566852,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 687,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-PP&E-017",
+        "createdAt": 1727011567437,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 688,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727011643029,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 689,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727011708571,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 690,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727011751467,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 691,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727011759960,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 692,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727011894385,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 693,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727011912043,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 694,
+        "action": "Gabriel Darko Opoku ( ADMIN ) deleted department with id 6",
+        "createdAt": 1727011919376,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 695,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727011923663,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 696,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727012040232,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 697,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created user with userName undefined",
+        "createdAt": 1727012080443,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 698,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727012084464,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 699,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727012085204,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 700,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727012088875,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 701,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727012095612,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 702,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-PP&E",
+        "createdAt": 1727012115844,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 703,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727012119854,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 704,
+        "action": "Atogebania Alexander ( atogebaniaa@gmail.com ) viewed all risks",
+        "createdAt": 1727012140345,
+        "deptId": 27.0,
+        "organizationId": 1
+    },
+    {
+        "id": 705,
+        "action": "Atogebania Alexander ( atogebaniaa@gmail.com ) viewed all users",
+        "createdAt": 1727012177076,
+        "deptId": 27.0,
+        "organizationId": 1
+    },
+    {
+        "id": 706,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727125664576,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 707,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-001",
+        "createdAt": 1727126090907,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 708,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-002",
+        "createdAt": 1727126091471,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 709,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-003",
+        "createdAt": 1727126092029,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 710,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-004",
+        "createdAt": 1727126092594,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 711,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-005",
+        "createdAt": 1727126093158,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 712,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-006",
+        "createdAt": 1727126093719,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 713,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-007",
+        "createdAt": 1727126094281,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 714,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-008",
+        "createdAt": 1727126094838,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 715,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-009",
+        "createdAt": 1727126095404,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 716,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-010",
+        "createdAt": 1727126095965,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 717,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-011",
+        "createdAt": 1727126096527,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 718,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-012",
+        "createdAt": 1727126097091,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 719,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-013",
+        "createdAt": 1727126097646,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 720,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-NP-014",
+        "createdAt": 1727126098218,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 721,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-001",
+        "createdAt": 1727126758196,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 722,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-002",
+        "createdAt": 1727126758754,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 723,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-003",
+        "createdAt": 1727126759352,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 724,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-004",
+        "createdAt": 1727126759898,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 725,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-005",
+        "createdAt": 1727126760460,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 726,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-006",
+        "createdAt": 1727126761003,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 727,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-007",
+        "createdAt": 1727126761562,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 728,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-008",
+        "createdAt": 1727126762134,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 729,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-009",
+        "createdAt": 1727126762678,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 730,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-010",
+        "createdAt": 1727126763222,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 731,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-011",
+        "createdAt": 1727126763790,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 732,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-LEG-012",
+        "createdAt": 1727126764356,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 733,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-001",
+        "createdAt": 1727127894144,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 734,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-002",
+        "createdAt": 1727127894751,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 735,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-003",
+        "createdAt": 1727127895359,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 736,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-004",
+        "createdAt": 1727127895976,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 737,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-005",
+        "createdAt": 1727127896572,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 738,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-006",
+        "createdAt": 1727127897169,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 739,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-007",
+        "createdAt": 1727127897761,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 740,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-008",
+        "createdAt": 1727127898336,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 741,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-009",
+        "createdAt": 1727127898912,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 742,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-010",
+        "createdAt": 1727127899488,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 743,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-011",
+        "createdAt": 1727127900065,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 744,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-012",
+        "createdAt": 1727127900641,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 745,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-013",
+        "createdAt": 1727127901240,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 746,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-014",
+        "createdAt": 1727127901835,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 747,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-015",
+        "createdAt": 1727127902439,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 748,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-016",
+        "createdAt": 1727127903023,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 749,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-017",
+        "createdAt": 1727127903600,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 750,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-018",
+        "createdAt": 1727127904234,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 751,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-019",
+        "createdAt": 1727127904822,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 752,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-020",
+        "createdAt": 1727127905400,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 753,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-021",
+        "createdAt": 1727127905985,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 754,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-022",
+        "createdAt": 1727127906569,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 755,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-COM-023",
+        "createdAt": 1727127907152,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 756,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727128141055,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 757,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727128426435,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 758,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-001",
+        "createdAt": 1727128786810,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 759,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-002",
+        "createdAt": 1727128787365,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 760,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-003",
+        "createdAt": 1727128787918,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 761,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-004",
+        "createdAt": 1727128788476,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 762,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-005",
+        "createdAt": 1727128789037,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 763,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-006",
+        "createdAt": 1727128789586,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 764,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-007",
+        "createdAt": 1727128790139,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 765,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-008",
+        "createdAt": 1727128790690,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 766,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-009",
+        "createdAt": 1727128791244,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 767,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-010",
+        "createdAt": 1727128791795,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 768,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-011",
+        "createdAt": 1727128792350,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 769,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-012",
+        "createdAt": 1727128792899,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 770,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-013",
+        "createdAt": 1727128793448,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 771,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-014",
+        "createdAt": 1727128793999,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 772,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-015",
+        "createdAt": 1727128794549,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 773,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-016",
+        "createdAt": 1727128795103,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 774,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-017",
+        "createdAt": 1727128795653,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 775,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-018",
+        "createdAt": 1727128796208,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 776,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-019",
+        "createdAt": 1727128796779,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 777,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-020",
+        "createdAt": 1727128797336,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 778,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-021",
+        "createdAt": 1727128797887,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 779,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-022",
+        "createdAt": 1727128798447,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 780,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-AUD-023",
+        "createdAt": 1727128799011,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 781,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727128882840,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 782,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1727129160903,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 783,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727129162837,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 784,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-001",
+        "createdAt": 1727129546493,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 785,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-002",
+        "createdAt": 1727129547048,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 786,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-003",
+        "createdAt": 1727129547593,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 787,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-004",
+        "createdAt": 1727129548145,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 788,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-005",
+        "createdAt": 1727129548687,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 789,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-006",
+        "createdAt": 1727129549266,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 790,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-007",
+        "createdAt": 1727129549805,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 791,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-008",
+        "createdAt": 1727129550344,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 792,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-009",
+        "createdAt": 1727129550882,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 793,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-010",
+        "createdAt": 1727129551439,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 794,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-011",
+        "createdAt": 1727129551983,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 795,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-012",
+        "createdAt": 1727129552569,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 796,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-013",
+        "createdAt": 1727129553107,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 797,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-014",
+        "createdAt": 1727129553647,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 798,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-015",
+        "createdAt": 1727129554210,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 799,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-016",
+        "createdAt": 1727129554749,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 800,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-017",
+        "createdAt": 1727129555293,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 801,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-018",
+        "createdAt": 1727129555834,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 802,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-019",
+        "createdAt": 1727129556374,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 803,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-020",
+        "createdAt": 1727129556917,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 804,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-021",
+        "createdAt": 1727129557457,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 805,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-022",
+        "createdAt": 1727129557996,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 806,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-023",
+        "createdAt": 1727129558543,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 807,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-024",
+        "createdAt": 1727129559096,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 808,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-025",
+        "createdAt": 1727129559638,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 809,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-026",
+        "createdAt": 1727129560181,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 810,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-027",
+        "createdAt": 1727129560725,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 811,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-028",
+        "createdAt": 1727129561287,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 812,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-029",
+        "createdAt": 1727129561826,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 813,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-030",
+        "createdAt": 1727129562369,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 814,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-OPS-031",
+        "createdAt": 1727129562942,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 815,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-001",
+        "createdAt": 1727130357276,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 816,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-002",
+        "createdAt": 1727130357840,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 817,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-003",
+        "createdAt": 1727130358447,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 818,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-004",
+        "createdAt": 1727130359009,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 819,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-005",
+        "createdAt": 1727130359577,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 820,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-006",
+        "createdAt": 1727130360158,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 821,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-007",
+        "createdAt": 1727130360725,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 822,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-008",
+        "createdAt": 1727130361286,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 823,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-009",
+        "createdAt": 1727130361846,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 824,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-010",
+        "createdAt": 1727130362412,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 825,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-011",
+        "createdAt": 1727130362980,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 826,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-012",
+        "createdAt": 1727130363547,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 827,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-013",
+        "createdAt": 1727130364106,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 828,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-014",
+        "createdAt": 1727130364665,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 829,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-015",
+        "createdAt": 1727130365233,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 830,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-016",
+        "createdAt": 1727130365808,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 831,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-017",
+        "createdAt": 1727130366373,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 832,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-018",
+        "createdAt": 1727130366931,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 833,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-019",
+        "createdAt": 1727130367493,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 834,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-020",
+        "createdAt": 1727130368052,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 835,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-021",
+        "createdAt": 1727130368615,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 836,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-022",
+        "createdAt": 1727130369181,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 837,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-023",
+        "createdAt": 1727130369792,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 838,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-024",
+        "createdAt": 1727130370354,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 839,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-025",
+        "createdAt": 1727130370936,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 840,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-026",
+        "createdAt": 1727130371506,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 841,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-027",
+        "createdAt": 1727130372086,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 842,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-028",
+        "createdAt": 1727130372642,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 843,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-029",
+        "createdAt": 1727130373221,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 844,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-030",
+        "createdAt": 1727130373783,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 845,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-031",
+        "createdAt": 1727130374360,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 846,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-032",
+        "createdAt": 1727130374942,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 847,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-033",
+        "createdAt": 1727130375517,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 848,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-034",
+        "createdAt": 1727130376074,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 849,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-035",
+        "createdAt": 1727130376645,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 850,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-036",
+        "createdAt": 1727130377209,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 851,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-037",
+        "createdAt": 1727130377766,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 852,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-038",
+        "createdAt": 1727130378350,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 853,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-039",
+        "createdAt": 1727130378911,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 854,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-040",
+        "createdAt": 1727130379490,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 855,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-041",
+        "createdAt": 1727130380046,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 856,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-042",
+        "createdAt": 1727130380620,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 857,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-043",
+        "createdAt": 1727130381185,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 858,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-044",
+        "createdAt": 1727130381769,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 859,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-045",
+        "createdAt": 1727130382333,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 860,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-046",
+        "createdAt": 1727130382897,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 861,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-ICT-047",
+        "createdAt": 1727130383459,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 862,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-001",
+        "createdAt": 1727130853751,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 863,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-002",
+        "createdAt": 1727130854303,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 864,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-003",
+        "createdAt": 1727130854837,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 865,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-004",
+        "createdAt": 1727130855410,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 866,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-005",
+        "createdAt": 1727130855939,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 867,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-006",
+        "createdAt": 1727130856471,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 868,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-007",
+        "createdAt": 1727130856999,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 869,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-008",
+        "createdAt": 1727130857528,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 870,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-009",
+        "createdAt": 1727130858058,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 871,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-010",
+        "createdAt": 1727130858586,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 872,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-011",
+        "createdAt": 1727130859124,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 873,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-012",
+        "createdAt": 1727130859655,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 874,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-013",
+        "createdAt": 1727130860196,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 875,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-014",
+        "createdAt": 1727130860726,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 876,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-015",
+        "createdAt": 1727130861256,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 877,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-016",
+        "createdAt": 1727130861788,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 878,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-017",
+        "createdAt": 1727130862317,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 879,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-018",
+        "createdAt": 1727130862852,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 880,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-019",
+        "createdAt": 1727130863388,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 881,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-020",
+        "createdAt": 1727130863918,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 882,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-021",
+        "createdAt": 1727130864447,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 883,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-022",
+        "createdAt": 1727130864975,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 884,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-023",
+        "createdAt": 1727130865513,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 885,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-024",
+        "createdAt": 1727130866050,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 886,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-M&T-025",
+        "createdAt": 1727130866584,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 887,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727131192373,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 888,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated the risk With riskID:ECG-HR-009",
+        "createdAt": 1727131400871,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 889,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727131402054,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 890,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131606168,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 891,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-NB&R",
+        "createdAt": 1727131634884,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 892,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131636871,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 893,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-NetProj",
+        "createdAt": 1727131651503,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 894,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131654749,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 895,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-Tema",
+        "createdAt": 1727131661741,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 896,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131664376,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 897,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-HQ",
+        "createdAt": 1727131672748,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 898,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131675256,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 899,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-WT",
+        "createdAt": 1727131689112,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 900,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131691241,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 901,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727131794398,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 902,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727131997156,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 903,
+        "action": "Gabriel Darko Opoku ( ADMIN ) deleted department with id 29",
+        "createdAt": 1727132024158,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 904,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132053422,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 905,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-NP-015",
+        "createdAt": 1727132227985,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 906,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132232163,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 907,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132233083,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 908,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132234422,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 909,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132235184,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 910,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132243864,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 912,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk With riskID:ECG-NP-016",
+        "createdAt": 1727132311517,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 913,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132315692,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 914,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132316583,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 915,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132317403,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 916,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132318698,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 917,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132319476,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 918,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132320199,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 919,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1727132320898,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 920,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727132336398,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 921,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created the department: Engineering Directorate ",
+        "createdAt": 1727132451209,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 922,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727132454542,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 923,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727132458988,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 924,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-ENG",
+        "createdAt": 1727132473404,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 925,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1727132475364,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 926,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-001",
+        "createdAt": 1727133605176,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 927,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-002",
+        "createdAt": 1727133605762,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 928,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-003",
+        "createdAt": 1727133606340,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 929,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-004",
+        "createdAt": 1727133606922,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 930,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-005",
+        "createdAt": 1727133607505,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 931,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-006",
+        "createdAt": 1727133608081,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 932,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-007",
+        "createdAt": 1727133608662,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 933,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-008",
+        "createdAt": 1727133609255,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 934,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-009",
+        "createdAt": 1727133609871,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 935,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-010",
+        "createdAt": 1727133610472,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 936,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-011",
+        "createdAt": 1727133611083,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 937,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-012",
+        "createdAt": 1727133611666,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 938,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-013",
+        "createdAt": 1727133612237,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 939,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-014",
+        "createdAt": 1727133612838,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 940,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-015",
+        "createdAt": 1727133613431,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 941,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-016",
+        "createdAt": 1727133614011,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 942,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-017",
+        "createdAt": 1727133614609,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 943,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-018",
+        "createdAt": 1727133615196,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 944,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-019",
+        "createdAt": 1727133615776,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 945,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-020",
+        "createdAt": 1727133616364,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 946,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-021",
+        "createdAt": 1727133616938,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 947,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-022",
+        "createdAt": 1727133617520,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 948,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-023",
+        "createdAt": 1727133618123,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 949,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-024",
+        "createdAt": 1727133618707,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 950,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-025",
+        "createdAt": 1727133619282,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 951,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-026",
+        "createdAt": 1727133619911,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 952,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-027",
+        "createdAt": 1727133620490,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 953,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-028",
+        "createdAt": 1727133621071,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 954,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-029",
+        "createdAt": 1727133621655,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 955,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-030",
+        "createdAt": 1727133622230,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 956,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-031",
+        "createdAt": 1727133622803,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 957,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-032",
+        "createdAt": 1727133623375,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 958,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-033",
+        "createdAt": 1727133623975,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 959,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-034",
+        "createdAt": 1727133624595,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 960,
+        "action": "Gabriel Darko Opoku ( ADMIN ) created a risk with riskID: ECG-WT-035",
+        "createdAt": 1727133625238,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 976,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1728467649532,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 982,
+        "action": "Atogebania Alexander ( atogebaniaa@gmail.com ) viewed all risks",
+        "createdAt": 1728763241484,
+        "deptId": 27.0,
+        "organizationId": 1
+    },
+    {
+        "id": 1105,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1729458267143,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1106,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1729458453966,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1107,
+        "action": "Gabriel Darko Opoku ( ADMIN ) updated department with departmentCode ECG-PPM&E",
+        "createdAt": 1729458538691,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1108,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1729458542505,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1109,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1729458626015,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1110,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1729458687570,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1111,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1729458790436,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1112,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1729458826043,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1113,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1729459034927,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1310,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1733353729763,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1311,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1733353742017,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1312,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1733353845144,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1321,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1737394112980,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1324,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1737980453774,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1325,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1737980491636,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1326,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1737980633971,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1355,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738080135139,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1356,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1738080137258,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1357,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738080142778,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1358,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1738080147267,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1363,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738598443141,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1487,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738881912284,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1488,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1738881934337,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1489,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738881961450,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1490,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1738881978754,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1491,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1738881982525,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1492,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1738881989312,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1493,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1738881993796,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1494,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738886123306,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1495,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738953101129,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1496,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1738971080997,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1497,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1738974994675,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1498,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1739016893456,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1499,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1739043785857,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1500,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1739144114551,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1501,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1739147759989,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1502,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1739147763469,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1503,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1739150245483,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1504,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1739150443616,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1505,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1739152346726,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1506,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1739152350412,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1507,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1739152359452,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1508,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1739152362071,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1509,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1739152366402,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1510,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all departments",
+        "createdAt": 1739196189489,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1511,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all users",
+        "createdAt": 1739196193123,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1512,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk monitorings",
+        "createdAt": 1739196197291,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1513,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1739274073395,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1514,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1739756781040,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1515,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risks",
+        "createdAt": 1739756931249,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1516,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk reviews",
+        "createdAt": 1739757146555,
+        "deptId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 1518,
+        "action": "Gabriel Darko Opoku ( ADMIN ) viewed all risk mitigations",
+        "createdAt": 1740344575925,
+        "deptId": null,
+        "organizationId": 1
+    }
+]

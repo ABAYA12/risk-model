@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "DEMO",
+        "price": 0.0,
+        "duration": 99999,
+        "createdAt": 1726436952978,
+        "updatedAt": 1726436952978,
+        "status": "ACTIVE",
+        "organizationId": 1
+    }
+]

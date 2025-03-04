@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "userName": "Gabriel Darko Opoku ( ADMIN )",
+        "email": "gabrieldarko78@yahoo.com",
+        "password": "$2a$10$Dn7k9e6QJUKPTaa8K3K6deduxbEl8q5/bJDVH9/lTT2FY/cxLmvq6",
+        "firstName": "Gabriel",
+        "lastName": "Darko Opoku",
+        "phoneNumber": null,
+        "role": "ADMIN",
+        "createdAt": 1726436953315,
+        "updatedAt": 1726436953315,
+        "departmentId": null,
+        "organizationId": 1
+    },
+    {
+        "id": 11,
+        "userName": "Atogebania Alexander ( atogebaniaa@gmail.com )",
+        "email": "atogebaniaa@gmail.com",
+        "password": "$2a$10$Y/bqowpHavhHE58JITjUP.mwCAcABnqk6lHwHwidfAmRL3.myrHMC",
+        "firstName": "Alexander",
+        "lastName": "Atogebania",
+        "phoneNumber": "0245176441",
+        "role": "MANAGER",
+        "createdAt": 1727012079964,
+        "updatedAt": 1727012079964,
+        "departmentId": 27.0,
+        "organizationId": 1
+    }
+]

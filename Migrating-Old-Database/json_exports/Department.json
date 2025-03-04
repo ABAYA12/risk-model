@@ -1,0 +1,292 @@
+[
+    {
+        "id": 3,
+        "deptID": "ECG-TS",
+        "name": "Training School",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438402272,
+        "updatedAt": 1726439634824,
+        "organizationId": 1
+    },
+    {
+        "id": 4,
+        "deptID": "ECG-AUD",
+        "name": "Audit",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438430337,
+        "updatedAt": 1726439641787,
+        "organizationId": 1
+    },
+    {
+        "id": 5,
+        "deptID": "ECG-FIN",
+        "name": "Finance",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438484230,
+        "updatedAt": 1726439648871,
+        "organizationId": 1
+    },
+    {
+        "id": 32,
+        "deptID": "ECG-Tema",
+        "name": "Tema",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726851898073,
+        "updatedAt": 1727131661628,
+        "organizationId": 1
+    },
+    {
+        "id": 7,
+        "deptID": "ECG-NP",
+        "name": "New Projects",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438557277,
+        "updatedAt": 1726439685719,
+        "organizationId": 1
+    },
+    {
+        "id": 8,
+        "deptID": "ECG-LEG",
+        "name": "Legal",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438586148,
+        "updatedAt": 1726439692522,
+        "organizationId": 1
+    },
+    {
+        "id": 9,
+        "deptID": "ECG-COM",
+        "name": "Communication",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438629907,
+        "updatedAt": 1726439699896,
+        "organizationId": 1
+    },
+    {
+        "id": 11,
+        "deptID": "ECG-HR",
+        "name": "Human Resource",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438713985,
+        "updatedAt": 1726439716448,
+        "organizationId": 1
+    },
+    {
+        "id": 12,
+        "deptID": "ECG-OPS",
+        "name": "Operations",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438745083,
+        "updatedAt": 1726439724100,
+        "organizationId": 1
+    },
+    {
+        "id": 13,
+        "deptID": "ECG-ICT",
+        "name": "ICT",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438768343,
+        "updatedAt": 1726439734152,
+        "organizationId": 1
+    },
+    {
+        "id": 14,
+        "deptID": "ECG-M&T",
+        "name": "Material and Transport",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438805467,
+        "updatedAt": 1726439743434,
+        "organizationId": 1
+    },
+    {
+        "id": 15,
+        "deptID": "ECG-ER",
+        "name": "Eastern Region",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Eastern Region",
+        "createdAt": 1726438898227,
+        "updatedAt": 1726439752765,
+        "organizationId": 1
+    },
+    {
+        "id": 28,
+        "deptID": "ECG-REE&C",
+        "name": "Renewable Energy and Energy Consulting",
+        "manager": null,
+        "location": "Accra",
+        "createdAt": 1726851754760,
+        "updatedAt": 1726851754760,
+        "organizationId": 1
+    },
+    {
+        "id": 30,
+        "deptID": "ECG-ACC-E",
+        "name": "Accra East",
+        "manager": null,
+        "location": "Accra",
+        "createdAt": 1726851831776,
+        "updatedAt": 1726851831776,
+        "organizationId": 1
+    },
+    {
+        "id": 31,
+        "deptID": "ECG-ACC-W",
+        "name": "Accra West",
+        "manager": null,
+        "location": "Accra",
+        "createdAt": 1726851874865,
+        "updatedAt": 1726851874865,
+        "organizationId": 1
+    },
+    {
+        "id": 38,
+        "deptID": "ECG-ProjO",
+        "name": "Project Office",
+        "manager": null,
+        "location": "Accra",
+        "createdAt": 1726852127375,
+        "updatedAt": 1726852127375,
+        "organizationId": 1
+    },
+    {
+        "id": 37,
+        "deptID": "ECG_ASH-SubT",
+        "name": "Sub-Transmission",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Ashanti Region",
+        "createdAt": 1726852083355,
+        "updatedAt": 1726852176797,
+        "organizationId": 1
+    },
+    {
+        "id": 39,
+        "deptID": "ECG_ASH-East",
+        "name": "Ashanti East",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Ashanti Region",
+        "createdAt": 1726852212940,
+        "updatedAt": 1726854139879,
+        "organizationId": 1
+    },
+    {
+        "id": 33,
+        "deptID": "ECG-CENT",
+        "name": "Central",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726851924375,
+        "updatedAt": 1726856169990,
+        "organizationId": 1
+    },
+    {
+        "id": 41,
+        "deptID": "ECG_ASH-South",
+        "name": "Ashanti South",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Ashanti Region",
+        "createdAt": 1726852283469,
+        "updatedAt": 1726874448810,
+        "organizationId": 1
+    },
+    {
+        "id": 40,
+        "deptID": "ECG_ASH-West",
+        "name": "Ashanti West",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Ashanti Region",
+        "createdAt": 1726852251322,
+        "updatedAt": 1726874461517,
+        "organizationId": 1
+    },
+    {
+        "id": 36,
+        "deptID": "ECG-Volta",
+        "name": "Volta",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Volta",
+        "createdAt": 1726852036739,
+        "updatedAt": 1726874480308,
+        "organizationId": 1
+    },
+    {
+        "id": 27,
+        "deptID": "ECG-PP&E",
+        "name": "Premises, Procurement and Estate",
+        "manager": "Atogebania Alexander ( atogebaniaa@gmail.com )",
+        "location": "Accra",
+        "createdAt": 1726851721215,
+        "updatedAt": 1727012115721,
+        "organizationId": 1
+    },
+    {
+        "id": 25,
+        "deptID": "ECG-NB&R",
+        "name": "New business and Risk management ",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726851637430,
+        "updatedAt": 1727131634763,
+        "organizationId": 1
+    },
+    {
+        "id": 34,
+        "deptID": "ECG-HQ",
+        "name": "Head Office",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726851949195,
+        "updatedAt": 1727131672634,
+        "organizationId": 1
+    },
+    {
+        "id": 35,
+        "deptID": "ECG-WT",
+        "name": "Western",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726852003043,
+        "updatedAt": 1727131688997,
+        "organizationId": 1
+    },
+    {
+        "id": 42,
+        "deptID": "ECG-ENG",
+        "name": "Engineering Directorate ",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1727132451006,
+        "updatedAt": 1727132473283,
+        "organizationId": 1
+    },
+    {
+        "id": 10,
+        "deptID": "ECG-CSD",
+        "name": "Customer Service\u00a0Department",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726438681705,
+        "updatedAt": 1726439708063,
+        "organizationId": 1
+    },
+    {
+        "id": 26,
+        "deptID": "ECG-PPM&E",
+        "name": "Project Planning, Monitoring and Evaluation ",
+        "manager": "Gabriel Darko Opoku ( ADMIN )",
+        "location": "Accra",
+        "createdAt": 1726851677361,
+        "updatedAt": 1729458538566,
+        "organizationId": 1
+    }
+]
